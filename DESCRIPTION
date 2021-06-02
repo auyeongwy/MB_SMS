@@ -1,0 +1,5 @@
+Provides Python reference code for working with MessageBird SMS API.
+
+Programmed using Python 3 and compatibility with Python 2 is not assured. Please run with Python 3.
+
+To start, rename the configuration file to "mb_sms.config" and fill in necessary information. Then run "python3 mb_sms.py".
